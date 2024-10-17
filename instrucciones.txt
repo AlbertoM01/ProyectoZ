@@ -1,0 +1,4 @@
+- Primer proceso git
+1. Creación de la carpeta local ProyectoZ
+2. Comprobación del funcionamiento git desde VSCode
+3. Añadiendo información/lineas de código a los archivos
